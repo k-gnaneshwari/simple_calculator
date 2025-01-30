@@ -20,3 +20,4 @@ Step4: Create an apparent function that wipes everything from the input field.
 Step5: And finally, evaluate function that computes and gives the result of  the expression.
 
 output:
+![image alt ]![WhatsApp Image 2025-01-30 at 21 12 36_fb05488f](https://github.com/user-attachments/assets/69d99947-98bc-419d-8cdb-ee5f4768265f)
