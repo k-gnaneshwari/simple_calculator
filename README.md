@@ -19,5 +19,12 @@ Step3: Create an input function that enters a number into the  input  field.
 Step4: Create an apparent function that wipes everything from the input field.                                                                                                    
 Step5: And finally, evaluate function that computes and gives the result of  the expression.
 
-output:
-![image alt ]![WhatsApp Image 2025-01-30 at 21 12 36_fb05488f](https://github.com/user-attachments/assets/69d99947-98bc-419d-8cdb-ee5f4768265f)
+output 1:
+
+![WhatsApp Image 2025-01-30 at 21 12 36_fb05488f](https://github.com/user-attachments/assets/69d99947-98bc-419d-8cdb-ee5f4768265f)
+
+
+output 2:
+
+
+![WhatsApp Image 2025-01-30 at 21 12 22_8dc9ad86](https://github.com/user-attachments/assets/bb40dbbc-86ea-48ee-9211-06ad34ed5a54)
