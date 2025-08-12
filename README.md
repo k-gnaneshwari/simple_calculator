@@ -13,7 +13,7 @@ Tkinter is a python library that can be used to construct basic graphical user i
    
 Steps to be followed for building a code:                                                                                            
 The project can be broke down into the following key components:                                                                
-Step1: Import everything from the Tkinter using *  .                                                           
+Step1: Import everything from the Tkinter using *  .                                                          
 Step2: Create an interface for the Calculator.                                                                     
 Step3: Create an input function that enters a number into the  input  field.                     
 Step4: Create an apparent function that wipes everything from the input field.                                                                                                    
